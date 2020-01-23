@@ -1,5 +1,8 @@
 # Salesforce Embedded Log In Example
 
+![Status](https://img.shields.io/badge/status-Beta-yellowgreen)
+![Geography](https://img.shields.io/badge/Geography-US-blue)
+
 This is a simple reference implementation of Salesforce Embedded Log In, which leverages Salesforce Identity for Customers & Partners (our CIAM) to allow customers to delegate the rote but difficult work of secure authentication and user data storage / retrieval in pursuit of a 360 degree view of their customer.
 
 You can check out the official reference implementation (written in PHP) [here](https://github.com/salesforceidentity/embedded-login-example). You'll also want to refer to the [Salesforce External Identity Implementation Guide](https://developer.salesforce.com/docs/atlas.en-us.externalidentityImplGuide.meta/externalidentityImplGuide/external_identity_intro.htm) to set up this org or complete the [Identity for Customers](https://trailhead.salesforce.com/en/content/learn/modules/identity_external) Trailhead module.
